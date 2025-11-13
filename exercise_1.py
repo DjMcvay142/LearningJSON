@@ -1,3 +1,5 @@
+#Exercise 1 - Python File Operations
+
 with open("myfile.txt", "w") as file:
     file.write(" Name: Dan McVay \n Course: Computing and Information Science Foundation")
 
